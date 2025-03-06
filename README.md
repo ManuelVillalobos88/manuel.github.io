@@ -10,3 +10,5 @@ En esta pagina pondre todos los datos para RNAseq.
 ### datos para poder hacer analisis Rmd
 ![Figure8 (1)](https://github.com/user-attachments/assets/ab93c54b-19bd-480f-a19c-9ffa81c63308)
 
+
+![RNAseq](https://github.com/user-attachments/assets/7cfb170c-a293-4330-bcb4-6ba721376274)
